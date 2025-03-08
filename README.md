@@ -80,10 +80,6 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 
 ***
 
-![Manage Issued Books 2](Screenshots/manage_issued_books2.png)
-
-***
-
 ![Manage Requested Books](Screenshots/manage_requested_books.png)
 
 ***
